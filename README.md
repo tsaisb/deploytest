@@ -1,0 +1,2 @@
+# deploytest
+test deno deploy
